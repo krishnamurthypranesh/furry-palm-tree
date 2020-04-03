@@ -1,3 +1,11 @@
+# You can find the anime, manga, and everything else I've watched, read (and I can remember doing so below)
+# Legend
+() <- Text inside brackets indicates the type. If there's nothing, it refers to the anime
+* <- Indicate anime I recommend to everyone on any day of the week. The number of stars indicates how good the anime is.
+
+P.S: The numbering does not indicate quality.
+
+# Enjoy!!
 1. One Piece***
 2. Black Clover (Manga)
 3. Shigatsu Wa Kimi No Uso**
