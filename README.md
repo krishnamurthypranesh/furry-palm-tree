@@ -118,3 +118,4 @@ P.S: The numbering does not indicate quality.
 110. Boku Dake ga Inai Machi*
 111. Darbi (Webtoon)
 112. Gosu (Webtoon)
+113. Kentan Omega (Manga)
